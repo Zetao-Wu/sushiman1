@@ -1,8 +1,8 @@
-<img width="1469" alt="Screenshot 2024-07-17 at 7 17 30 PM" src="https://zetao-wu.github.io/sushiman1/">
+<img width="1469" alt="Screenshot 2024-07-17 at 7 17 30 PM" src="https://github.com/user-attachments/assets/caf115e9-52a0-4b96-b454-b6e2bfff9a4b">
 
 ## SushiMan Website 
 
-Developed a sushi website showing some popular Japanese food, including trending sushi and drinks, using HTML, CSS, and some basic JavaScript. This project also leverages smooth and subtle animations using AOS Animations as well. You can click on the image for the deployed site using gh-pages or use this link instead: https://zetao-wu.github.io/sushiman1/.
+Developed a modern sushi website showcasing some popular Japanese food, including trending sushi and drinks, using HTML, CSS, and JavaScript. This project also leverages smooth and subtle animations using AOS Animations and ensures responsive design such that the webpage can be deployed on various devices including laptops, tablets, and mobile devices. You can click on the link for the deployed site using gh-pages: https://zetao-wu.github.io/sushiman1/.
 
 ## Project Installation
 
